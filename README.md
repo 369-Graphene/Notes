@@ -51,3 +51,18 @@ While the European Union General Data Protection Regulation _(EU GDPR)_ made hea
 * New York State Department of Financial Service (DFS) - _23 NYCRR 500.08_&#x20;
 * Payment Card Industry Data Protection Standard (PCI DSS) - _2.2_&#x20;
 * Center for Internet Security Critical Security Controls (CIS CSC) - _1.2, 5.9, 6.2, 6.3, 6.4, 6.5, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 7.8, 8.6, 9.1, 9.2, 9.3, 9.4, 9.5, 9.6, 11.4, 11.5, 11.6, 11.7, 13.4, 13.5 & 16._
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-09-29 at 11.02.54 AM (1).png" alt=""><figcaption><p>Diagram of Security by Design &#x26; Privacy by Design</p></figcaption></figure>
+
+## Security & Privacy by Design (S|P) Principles
+
+The concept of building security and privacy into technology solutions both by default and by design is a basic expectation for businesses, regardless of the industry. The adoption of security and privacy principles is a crucial step in building a secure, audit-ready program.
+
+The S|P establishes 32 common-sense principles to guide the development and oversight of a modern security and privacy program. Those 32 S|P principles are listed below:
+
+\| # | SCF Domain | Identifiers | Security & Privacy by Design (S|P) Principle | S|P Principle Intent |
+
+\| - | ------------- | ---------- | --------------------------------------------- | ------------------- |
+
+\| 2 | Security & Privacy Governance | GOV | Govern a documented, risk-based program that encompasses appropriate security and privacy principles to address all applicable statutory, regulatory, and contractual obligations. | Organizations specify the development of an organization’s security and privacy programs, including criteria to measure success, to ensure ongoing leadership engagement and risk management. |&#x20;
+
